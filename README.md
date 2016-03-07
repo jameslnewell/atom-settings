@@ -6,6 +6,7 @@
 
 - `file-icons`
 - `highlight-selected`
+- `highlight-line`
 - `Sublime-Style-Column-Selection`
 - `emmet`
 - `autoclose-html`
@@ -14,7 +15,7 @@
 
 ### documentation
 
-- docblockr
+- `docblockr`
 
 ### linting
 
