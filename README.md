@@ -12,6 +12,7 @@
 - `autoclose-html`
 - `termy` - terminal panel
 - `editorconfig`
+- `refactor` and `js-refactor`
 
 ### documentation
 
