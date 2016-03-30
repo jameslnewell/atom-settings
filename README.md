@@ -11,7 +11,7 @@
 - `emmet`
 - `autoclose-html`
 - `termy` - terminal panel
-
+- `editorconfig`
 
 ### documentation
 
