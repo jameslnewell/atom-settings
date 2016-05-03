@@ -17,6 +17,7 @@
 ### documentation
 
 - `docblockr`
+- `language-settings`
 
 ### linting
 
