@@ -13,6 +13,7 @@
 - `termy` - terminal panel
 - `editorconfig`
 - `refactor` and `js-refactor`
+- `advanced-open-file`
 
 ### documentation
 
