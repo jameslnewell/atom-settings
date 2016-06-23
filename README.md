@@ -12,7 +12,6 @@
 - `autoclose-html`
 - `termy` - terminal panel
 - `editorconfig`
-- `refactor` and `js-refactor`
 - `advanced-open-file`
 
 ### documentation
@@ -20,6 +19,8 @@
 - `docblockr`
 - `language-settings`
 
-### linting
+### javascript
 
+- `autocomplete-js-import`
 - `linter` and `linter-eslint`
+- `refactor` and `js-refactor`
