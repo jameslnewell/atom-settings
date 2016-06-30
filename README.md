@@ -19,8 +19,12 @@
 - `docblockr`
 - `language-settings`
 
-### javascript
+### JavaScript
 
 - `autocomplete-js-import`
 - `linter` and `linter-eslint`
 - `refactor` and `js-refactor`
+
+### CSS/SASS
+
+- `pigments`
