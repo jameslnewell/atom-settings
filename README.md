@@ -24,6 +24,7 @@
 - `autocomplete-js-import`
 - `linter` and `linter-eslint`
 - `refactor` and `js-refactor`
+- `autocomplete-modules`
 
 ### CSS/SASS
 
