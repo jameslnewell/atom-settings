@@ -13,6 +13,7 @@
 - `termy` - terminal panel
 - `editorconfig`
 - `advanced-open-file`
+- `react`
 
 ### documentation
 
