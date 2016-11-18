@@ -30,3 +30,7 @@
 ### CSS/SASS
 
 - `pigments`
+
+
+- atom-typescript
+-language-nginx
