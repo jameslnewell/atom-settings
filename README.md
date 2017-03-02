@@ -14,6 +14,7 @@
 - `editorconfig`
 - `advanced-open-file`
 - `react`
+- `color-picker`
 
 ### documentation
 
