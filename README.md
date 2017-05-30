@@ -53,3 +53,12 @@
   ```
   font: [`Sauce Code Nerd Font`](https://github.com/ryanoasis/nerd-fonts)
   
+# vscode
+
+## Extensions
+- auto close tag
+- auto rename tag
+- flowtype
+- vscode-styled-components
+- eslint
+- vscodevim
