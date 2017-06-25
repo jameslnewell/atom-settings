@@ -62,3 +62,5 @@
 - vscode-styled-components
 - eslint
 - vscodevim
+- EditorConfig 
+- indent-rainbow
